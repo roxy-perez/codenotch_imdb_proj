@@ -1,7 +1,7 @@
 # Codenotch - Roxy Pérez
 ## Mini Proyecto - IMDB (Final Módulo 1)
 
-### Clases
+### Classes
  1. Professional
  2. Movie
  3. IMDB
